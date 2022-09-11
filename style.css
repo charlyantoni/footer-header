@@ -1,0 +1,60 @@
+section {
+    width: 80%;
+    float: left;
+    background-color: #e0e0e0;
+}
+
+aside {
+    width: 40%;
+    float: left;
+    background-color: #e0e0e0;
+    border-left: 1px solid white;
+}
+
+header {
+    padding: 25px;
+    background-color: #3ea3ce;
+}
+
+
+footer {
+    clear: both;
+    text-align: center;
+    background-color: #CFD8DC;
+}
+
+figcaption{
+    position:relative;
+    text-align: center;
+}
+
+.contenedor {
+    display: flex;
+}
+
+.logotec{
+    width: 200px;
+}
+
+.IHC{
+    width: 150px;
+
+}
+
+.titulo{
+    font-family: 'Gigi Normal', 'Corbel','Lucida Sans', Verdana;
+    position:relative;
+    text-align: center;
+    font-size: 70px;
+}
+
+.subtitulo{
+    position:relative;
+    text-align: center;
+}
+
+.parrafo{
+    position: relative;
+    text-align: justify;
+    margin: 20px;
+}
